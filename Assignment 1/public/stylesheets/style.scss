@@ -1,0 +1,33 @@
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+nav {
+  background-color: #f8f9fa;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+nav a {
+  margin-right: 1em;
+  text-decoration: none;
+  color: #333;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  color: #333;
+  text-align: center;
+  padding: 1em 0;
+}
